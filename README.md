@@ -1,9 +1,5 @@
 
-Project Demo Video
-
-Watch my project demonstration here:
-https://drive.google.com/file/d/1E8aelQkORFRKRSr627MXdKbCrxnI9dS8/view?usp=sharing
-A black, white and grey document vault: upload files with a title, description and category, search and filter them, share them with other registered users as **read** or **edit**, and review a per-user activity log. Built with Python's standard library (HTTP server + SQLite) and a dependency-free JavaScript front end. Access rules are enforced by the server on every request.
+A Trust Valut document : upload files with a title, description and category, search and filter them, share them with other registered users as **read** or **edit**, and review a per-user activity log. Built with Python's standard library (HTTP server + SQLite) and a dependency-free JavaScript front end. Access rules are enforced by the server on every request.
 
 ## What's inside
 Six sidebar sections after sign-in:
